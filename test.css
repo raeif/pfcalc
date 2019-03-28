@@ -1,0 +1,27 @@
+.abilitynamebloc {
+	height: 30px;
+	width: 45px;
+	float: right;
+	line-height: 30px;
+	text-align: center;
+	padding-right: 2px;
+	font-family: verdana, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	background-color: black;
+	color: white;
+}
+
+.abilityscorebloc {
+	height: 27px;
+	width: 45px;
+	float: left;
+	line-height: 25px;
+	text-align: center;
+	font-family: verdana, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	background-color: white;
+	color: black;
+	border: 1px solid black;
+}
