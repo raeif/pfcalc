@@ -1,7 +1,7 @@
 <?php
 
-$username = "svc_pfcalc";
-$password = "P@ssw0rd123";
+$username = "username";
+$password = "mypassword";
 $hostname = "localhost";
 $db = "PFCalc";
 $dbdriver = "mysql";
